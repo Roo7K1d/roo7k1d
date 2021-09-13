@@ -4,7 +4,7 @@
   
 [![Discord](https://img.shields.io/badge/-Discord-1a3663?style=plastic&logo=discord)](https://discord.gg/QQaWvMkFbs)
 [![Twitter](https://img.shields.io/badge/-Twitter-105782?style=plastic&logo=twitter)](https://twitter.com/RootKid0815)
-[![GitHub](https://img.shields.io/badge/-GitHub-030303?style=plastic&logo=github)](https://twitter.com/https://github.com/roo7k1d)
+[![GitHub](https://img.shields.io/badge/-GitHub-030303?style=plastic&logo=github)](https://github.com/roo7k1d)
 [![Docker](https://img.shields.io/badge/-Docker-064f66?style=plastic&logo=docker)](https://hub.docker.com/u/rootk1d)
 <br>
 ![VSCode](https://img.shields.io/badge/-VSCode-004073?style=plastic&logo=visualstudio)
